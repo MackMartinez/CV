@@ -1,0 +1,60 @@
+/* This is the color palette link: https://colorhunt.co/palette/fff5ebdeedf0f4c7abb2b8a3*/
+/* ****Tag Selectors**** */
+body {
+  background-color: #B2B8A3;
+}
+
+html {
+  font-family: cursive;
+  top: 10px;
+  left: 10px;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #FFF5EB;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1 {
+  color: #FFF5EB;
+  text-align: center;
+}
+
+h3 {
+  color: #FFF5EB;
+  text-align: center;
+}
+
+p {
+  color: #FFF5EB;
+  text-align: center;
+}
+
+table {
+  color: #FFF5EB;
+  text-align: center;
+}
+
+ul li {
+  color: #FFF5EB;
+  text-align: center;
+  list-style-position: inside;
+}
+
+a {
+  color: #FFF5EB;
+  text-align: center;
+}
+
+/* ****Tag Selectors**** */
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.top-div{text-align: center;}
+
+.profile{margin-left: 20px}
